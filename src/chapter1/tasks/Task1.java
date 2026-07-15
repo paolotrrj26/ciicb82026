@@ -1,4 +1,7 @@
+/**local package
 package chapter1.tasks;
+*/
+
 /** 
  * The HelloWorldApp class implements an application that
  * simply prints "Hello World!" to standard output.
