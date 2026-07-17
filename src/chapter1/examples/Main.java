@@ -1,4 +1,4 @@
-package chapter1;
+package chapter1.examples;
 import java.util.*;
 
 public class Main {

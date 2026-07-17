@@ -1,4 +1,4 @@
-package chapter1;
+package chapter1.examples;
 
 public class Constructor1Lesson {
     public static void main(String[] args) {

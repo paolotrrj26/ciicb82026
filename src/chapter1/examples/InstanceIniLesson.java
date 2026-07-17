@@ -1,4 +1,4 @@
-package chapter1;
+package chapter1.examples;
 public class InstanceIniLesson{
     InstanceIniLesson(){
         code = 0;

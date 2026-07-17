@@ -1,4 +1,4 @@
-package chapter1;
+package chapter1.examples;
 
 /**
  * Represents a toy item in the inventory
