@@ -1,10 +1,15 @@
-# Compiled Java classes
-*.class
+# IntelliJ
+.idea/
+*.iml
 
 # VS Code
-.vscode/*.log
+.idea/
+.vscode/
 
-# Java language server
-.settings/
-bin/
+# Build output
 out/
+*.class
+
+# OS files
+.DS_Store
+Thumbs.db
