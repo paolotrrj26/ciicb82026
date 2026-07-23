@@ -1,6 +1,6 @@
 package chapter2.tasks;
 
-public class task3 {
+public class Task3 {
     public static void main(String[] args) {
 
         String a = new String("Wow");
